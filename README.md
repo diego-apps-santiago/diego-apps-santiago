@@ -1,10 +1,9 @@
-[README.md](https://github.com/user-attachments/files/35436252/README.md)
 # Hola, soy Diego 👋
 
 Estudiante de **Sistemas de Información** en la Universidad Ana G. Méndez (Bayamón), de Toa Baja, Puerto Rico.
 Hago apps web para gente real (mi familia, negocios locales y yo) y las corro en un servidor que monté en casa.
 
-🌐 **Portafolio:** https://TU-USUARIO.github.io
+🌐 **Portafolio:** https://diego-apps-santiago.github.io
 
 ## Proyectos
 
@@ -23,4 +22,4 @@ Ubuntu Server · Docker · Supabase self-hosted · nginx · Proxmox VE · Pi-hol
 
 ## Contacto
 
-📧 TU-CORREO@ejemplo.com · 💼 [LinkedIn](https://www.linkedin.com/in/TU-PERFIL)
+📧 diego.apps.santiago@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/diego-santiago-6893203a9)
