@@ -9,12 +9,12 @@ Hago apps web para gente real (mi familia, negocios locales y yo) y las corro en
 
 | Proyecto | Para quién | Tecnologías |
 |---|---|---|
-| **WS Global**: control de recibos | Mi papá, contratista de remodelación | Supabase, Docker, nginx |
-| **Órdenes por teléfono**: órdenes, vista de cocina y ventas del día | Un negocio de comida | Vercel, Supabase |
-| **Mi Historial Académico**: promedio, clases por semestre, recordatorios y notas | Estudiantes | Supabase, Docker |
-| **Agenda de citas** | Mi tía, groomer de mascotas | |
-| **Sitio de CN Glam Studio** | Un estudio de uñas | Netlify |
-| **Inventario de equipo electrónico** | Autoridad de Edificios Públicos (pasantía) | Power Apps |
+| **WS Global: Control De Recibos** | Mi papá, contratista de remodelación | Supabase, Docker, nginx |
+| **Sistema De Órdenes Telefónicas**: órdenes, vista de cocina y ventas del día | Un negocio de comida | Vercel, Supabase |
+| **Mi Historial Académico**: promedio, clases por semestre, recordatorios y notas, bilingüe y cifrada | Estudiantes universitarios | Supabase, PWA, Stripe, Docker |
+| **Sistema De Citas** | Mi tía, groomer de mascotas | |
+| **Sitio De CN Glam Studio** | Un estudio de uñas | Netlify |
+| **Inventario De Equipo Electrónico** | Autoridad de Edificios Públicos (pasantía) | Power Apps |
 
 ## Mi servidor en casa
 
