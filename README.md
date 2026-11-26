@@ -22,4 +22,4 @@ Ubuntu Server · Docker · Supabase self-hosted · nginx · Proxmox VE · Pi-hol
 
 ## Contacto
 
-📧 diego.apps.santiago@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/diego-santiago-6893203a9)
+📧 diego.apps.santiago@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/diego-a-santiago-rivera-6893203a9/)
